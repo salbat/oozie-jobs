@@ -1,0 +1,500 @@
+New York	NY	8363710
+Los Angeles	CA	3833995
+Chicago	IL	2853114
+Houston	TX	2242193
+Phoenix	AZ	1567924
+Philadelphia	PA	1447395
+San Antonio	TX	1351305
+Dallas	TX	1279910
+San Diego	CA	1279329
+San Jose	CA	948279
+Detroit	MI	912062
+San Francisco	CA	808976
+Jacksonville	FL	807815
+Indianapolis	IN	798382
+Austin	TX	757688
+Columbus	OH	754885
+Fort Worth	TX	703073
+Charlotte	NC	687456
+Memphis	TN	669651
+Baltimore	MD	636919
+El Paso	TX	613190
+Boston	MA	609023
+Milwaukee	WI	604477
+Denver	CO	598707
+Seattle	WA	598541
+Nashville	TN	596462
+Washington	DC	591833
+Las Vegas	NV	558383
+Portland	OR	557706
+Louisville	KY	557224
+Oklahoma City	OK	551789
+Tucson	 AZ	541811
+Atlanta	 GA	537958
+Albuquerque	NM	521999
+Fresno	CA	476050
+Sacramento	CA	463794
+Long Beach	CA	463789
+Mesa	AZ	463552
+Kansas City	MO	451572
+Omaha	NE	438646
+Cleveland	OH	433748
+Virginia Beach	VA	433746
+Miami	FL	413201
+Oakland	CA	404155
+Raleigh	NC	392552
+Tulsa	OK	385635
+Minneapolis	MN	382605
+Colorado Springs	CO	380307
+Honolulu 		HI	374676
+Arlington	TX	374417
+Wichita	KS	366046
+St. Louis	MO	354361
+Tampa	FL	340882
+Santa Ana	CA	339130
+Anaheim	CA	335288
+Cincinnati	OH	333336
+Bakersfield	CA	321078
+Aurora	CO	319057
+New Orleans	LA	311853
+Pittsburgh	PA	310037
+Riverside	CA	295357
+Toledo	OH	293201
+Stockton	CA	287037
+Corpus Christi	TX	286462
+Lexington	KY	282114
+St. Paul	MN	279590
+Anchorage	AK	279243
+Newark	NJ	278980
+Buffalo	NY	270919
+Plano	TX	267480
+Henderson	NV	252064
+Lincoln	NE	251624
+Fort Wayne	IN	251591
+Glendale	AZ	251522
+Greensboro	NC	250642
+Chandler	AZ	247140
+St. Petersburg	FL	245314
+Jersey City	NJ	241114
+Scottsdale	AZ	235371
+Norfolk	VA	234220
+Madison	WI	231916
+Orlando	FL	230519
+Birmingham	AL	228798
+Baton Rouge	LA	223689
+Durham	NC	223284
+Laredo	TX	221659
+Lubbock	TX	220483
+Chesapeake	VA	220111
+Chula Vista	CA	219318
+Garland	TX	218577
+Winston-Salem	NC	217600
+North Las Vegas	NV	217253
+Reno	NV	217016
+Gilbert	AZ	216449
+Hialeah	FL	210542
+Arlington	VA	209969
+Akron	OH	207510
+Irvine	CA	207500
+Rochester	NY	206886
+Boise City	ID	205314
+Modesto	CA	202967
+Fremont	CA	202867
+Montgomery	AL	202696
+Spokane	WA	202319
+Richmond	VA	202002
+Yonkers	NY	201588
+Irving	TX	201358
+Shreveport	LA	199729
+San Bernardino	CA	198580
+Tacoma	WA	197181
+Glendale	CA	197176
+Des Moines	IA	197052
+Augusta		GA	194149
+Grand Rapids	MI	193396
+Huntington Beach	CA	192620
+Mobile	AL	191022
+Moreno Valley	CA	190871
+Little Rock	AR	189515
+Amarillo	TX	187236
+Columbus	GA	186984
+Oxnard	CA	185717
+Fontana	CA	184984
+Knoxville	TN	184802
+Fort Lauderdale	FL	183126
+Salt Lake City	UT	181698
+Newport News	VA	179614
+Huntsville	AL	176645
+Tempe	AZ	175523
+Brownsville	TX	175494
+Worcester	MA	175011
+Fayetteville	NC	174091
+Jackson	MS	173861
+Tallahassee	FL	171922
+Aurora	IL	171782
+Ontario	CA	171691
+Providence	RI	171557
+Overland Park	KS	171231
+Rancho Cucamonga	CA	171176
+Chattanooga	TN	170880
+Oceanside	CA	169684
+Santa Clarita	CA	169500
+Garden Grove	CA	165796
+Vancouver	WA	163186
+Grand Prairie	TX	160641
+Peoria	AZ	157960
+Rockford	IL	157272
+Cape Coral	FL	156835
+Springfield	MO	156206
+Santa Rosa	CA	155796
+Sioux Falls	SD	154997
+Port St. Lucie	FL	154353
+Dayton	OH	154200
+Salem	OR	153435
+Pomona	CA	152699
+Springfield	MA	150640
+Eugene	OR	150104
+Corona	CA	149923
+Pasadena	TX	146439
+Joliet	IL	146125
+Pembroke Pines	FL	145661
+Paterson	NJ	145643
+Hampton	VA	145494
+Lancaster	CA	145469
+Alexandria	VA	143885
+Salinas	CA	143640
+Palmdale	CA	143197
+Naperville	IL	143117
+Pasadena	CA	143080
+Kansas City	KS	142562
+Hayward	CA	142061
+Hollywood	FL	141740
+Lakewood	CO	140989
+Torrance	CA	140820
+Syracuse	NY	138068
+Escondido	CA	137103
+Fort Collins	CO	136509
+Bridgeport	CT	136405
+Orange	CA	136392
+Warren	MI	133939
+Elk Grove	CA	133003
+Savannah	GA	132410
+Mesquite	TX	132123
+Sunnyvale	CA	132109
+Fullerton	CA	131868
+McAllen	TX	129776
+Cary	NC	129545
+Cedar Rapids	IA	128056
+Sterling Heights	MI	127160
+Columbia	SC	127029
+Coral Springs	FL	125783
+Carrollton	TX	125595
+Elizabeth	NJ	124755
+Hartford	CT	124062
+Waco	TX	124009
+Bellevue	WA	123771
+New Haven	CT	123669
+West Valley City	UT	123447
+Topeka	KS	123446
+Thousand Oaks	CA	123091
+El Monte	CA	121791
+McKinney	TX	121211
+Concord	CA	121160
+Visalia	CA	121040
+Simi Valley	CA	120543
+Olathe	KS	119993
+Clarksville	TN	119735
+Denton	TX	119454
+Stamford	CT	119303
+Provo	UT	118581
+Springfield	IL	117352
+Killeen	TX	116934
+Abilene	TX	116484
+Evansville	IN	116309
+Gainesville	FL	114916
+Vallejo	CA	114729
+Ann Arbor	MI	114386
+Peoria	IL	114114
+Lansing	MI	113968
+Lafayette	LA	113656
+Thornton	CO	113429
+Athens		GA	113398
+Flint	MI	112900
+Inglewood	CA	112714
+Roseville	CA	112660
+Charleston	SC	111978
+Beaumont	TX	110553
+Independence	MO	110440
+Victorville	CA	110318
+Santa Clara	CA	110200
+Costa Mesa	CA	110080
+Miami Gardens	FL	109346
+Manchester	NH	108586
+Miramar	FL	108484
+Downey	CA	107587
+Arvada	CO	107361
+Allentown	PA	107250
+Westminster	CO	107056
+Waterbury	CT	107037
+Norman	OK	106957
+Midland	TX	106561
+Elgin	IL	106330
+West Covina	CA	105790
+Clearwater	FL	105774
+Cambridge	MA	105596
+Pueblo	CO	104951
+West Jordan	UT	104447
+Round Rock	TX	104446
+Billings	MT	103994
+Erie	PA	103817
+South Bend	IN	103807
+Ventura		CA	103706
+Fairfield	CA	103683
+Lowell	MA	103615
+Norwalk	CA	102982
+Burbank	CA	102968
+Richmond	CA	102285
+Pompano Beach	FL	101943
+High Point	NC	101835
+Murfreesboro	TN	101753
+Lewisville	TX	101624
+Richardson	TX	101589
+Daly City	CA	101514
+Berkeley	CA	101371
+Gresham	OR	101221
+Wichita Falls	TX	101202
+Green Bay	WI	101025
+Davenport	IA	100827
+Palm Bay	FL	100786
+Columbia	MO	100733
+Portsmouth	VA	100577
+Rochester	MN	100413
+Antioch	CA	100219
+Wilmington	NC	100192
+Centennial	CO	99680
+Odessa	TX	98801
+West Palm Beach	FL	98779
+Rialto	CA	98700
+Everett	WA	98212
+Murrieta	CA	97918
+Tyler	TX	97705
+Temecula	CA	97100
+Kenosha	WI	96950
+Frisco	TX	96676
+Sandy	UT	96660
+South Gate	CA	96640
+Carlsbad	CA	96374
+Gary	IN	95920
+Mission Viejo	CA	94461
+North Charleston	SC	94407
+Boulder	CO	94171
+Compton	CA	93851
+Hillsboro	OR	93638
+Albany	NY	93539
+Fargo	ND	93531
+Lakeland	FL	93333
+Orem	UT	93250
+Brockton	MA	93007
+Roanoke	VA	92967
+Broken Arrow	OK	92931
+Surprise	AZ	92897
+Macon	GA	92775
+El Cajon	CA	92718
+Carson	CA	92366
+Quincy	MA	92339
+Clovis	CA	92318
+San Mateo	CA	92256
+Vacaville	CA	92219
+San Angelo	TX	91880
+Las Cruces	NM	91865
+Beaverton	OR	91757
+Greeley	CO	91492
+New Bedford	MA	91365
+Livonia	MI	91220
+Vista	CA	91144
+Fall River	MA	90931
+Waukegan	IL	90788
+Lawrence	KS	90520
+Davie		FL	90238
+Tuscaloosa	AL	90221
+Redding	CA	90201
+Lawton	OK	90091
+Yuma	AZ	90041
+Sunrise	FL	89026
+Westminster	CA	88975
+Sparks	NV	88602
+Santa Monica	CA	87664
+Roswell	GA	87657
+Lynn	MA	86957
+Nashua	NH	86576
+Dearborn	MI	86477
+Santa Maria	CA	86356
+Spokane Valley	WA	86144
+Santa Barbara	CA	86093
+Alhambra	CA	85953
+Longmont	CO	85928
+Hesperia	CA	85883
+Boca Raton	FL	85670
+Fort Smith	AR	84716
+Miami Beach	FL	84633
+Warwick	RI	84483
+Indio	CA	84443
+Citrus Heights	CA	84432
+Deltona	FL	84408
+Federal Way	WA	84309
+Hawthorne	CA	84305
+Duluth	MN	84284
+Lee's Summit	MO	84208
+College Station	TX	84128
+Yakima	WA	84074
+Kent	WA	83978
+Chico	CA	83791
+Plantation	FL	83628
+Norwalk	CT	83185
+Chino	CA	83031
+Pearland	TX	82903
+Trenton	NJ	82883
+Ogden	UT	82865
+Sioux City	IA	82807
+Sandy Springs	GA	82674
+Suffolk	VA	82302
+Whittier	CA	82267
+Racine	WI	82196
+Newton	MA	82139
+Avondale	AZ	81299
+Bloomington	MN	81280
+Allen	TX	81268
+Sugar Land	TX	80704
+Reading	PA	80506
+Cicero	IL	80414
+Nampa	ID	80362
+Troy	MI	80264
+Livermore	CA	80188
+Cranston	RI	79980
+Newport Beach	CA	79661
+Rio Rancho	NM	79655
+Greenville	NC	79629
+Edmond	OK	79559
+Champaign	IL	79389
+Camden	NJ	79383
+Buena Park	CA	79379
+Danbury	CT	79256
+Tracy	CA	79196
+San Marcos	CA	79114
+Westland	MI	78961
+Bellingham	WA	78905
+Farmington Hills	MI	78522
+Lakewood	CA	78444
+Canton	OH	78362
+Clifton	NJ	78219
+Parma	OH	77947
+San Leandro	CA	77880
+Evanston	IL	77693
+Baldwin Park	CA	77380
+Melbourne	FL	77351
+Longview	TX	77211
+Bend	OR	77181
+Merced	CA	77160
+O'Fallon	MO	76819
+Hammond	IN	76732
+Decatur	IL	76256
+Jacksonville	NC	76233
+St. Joseph	MO	76197
+Albany	GA	75831
+Somerville	MA	75662
+Lake Forest	CA	75566
+Southfield	MI	75392
+Missouri City	TX	74723
+Deerfield Beach	FL	74584
+Napa	CA	74547
+Asheville	NC	74543
+New Rochelle	NY	74115
+Redwood City	CA	74060
+Chino Hills	CA	73879
+Arlington Heights	IL	73399
+Fayetteville	AR	73372
+Medford	OR	73212
+Bellflower	CA	73033
+Bloomington	IL	73026
+Youngstown	OH	72925
+Largo	FL	72732
+St. George	UT	72718
+Lynchburg	VA	72596
+Wilmington	DE	72592
+Gastonia	NC	72505
+Bryan	TX	72357
+Palm Coast	FL	72316
+Bethlehem	PA	72241
+Scranton	PA	72233
+Kalamazoo	MI	72179
+Union City	CA	72123
+Upland	CA	72091
+Santa Fe	NM	71831
+Bloomington	IN	71819
+Tustin	CA	71814
+Pawtucket	RI	71765
+Schaumburg	IL	71716
+Edinburg	TX	71520
+Plymouth	MN	71486
+Mountain View	CA	71348
+Brooklyn Park	MN	71308
+League City	TX	71222
+Lake Charles	LA	71061
+Hoover	AL	71020
+Hemet	CA	70991
+Bolingbrook	IL	70823
+Alameda	CA	70580
+New Britain	CT	70486
+Wyoming	MI	70462
+Baytown	TX	70330
+Appleton	WI	70305
+Lorain	OH	70239
+Apple Valley	CA	70200
+Gulfport	MS	70055
+Lynwood	CA	70025
+Lawrence	MA	70014
+Redlands	CA	69689
+Flower Mound	TX	69307
+Rochester Hills	MI	69014
+Fishers	  IN	69011
+Mount Vernon	NY	68653
+Turlock	CA	68404
+Boynton Beach	FL	68291
+Missoula	MT	68202
+Springdale	AR	68180
+Waukesha	WI	68008
+Iowa City	IA	67831
+Folsom		CA	67788
+Marietta	GA	67562
+Milpitas	CA	67503
+Rock Hill	SC	67339
+Mission		TX	67119
+Palatine	IL	67080
+Lauderhill	FL	67073
+St. Cloud	MN	66948
+Kenner	LA	66942
+Meridian	ID	66916
+Passaic	NJ	66884
+Redondo Beach	CA	66882
+Pleasanton	CA	66828
+Carmel	IN	66769
+Waterloo	IA	66662
+SkokieIL	66620
+Dothan	AL	66505
+Concord	NC	66311
+Pontiac	MI	66095
+Yorba Linda	CA	65717
+Loveland	CO	65587
+Layton	UT	65514
+Rapid City	SD	65491
+Mount PleasantSC	65472
+Eau Claire	WI	65426
+Fort Myers	FL	65394
+East Orange	NJ	65390
+Pharr	TX	65258
+North Richland Hills	TX	65078
+Manteca	CA	65028
+Muncie	IN	64975
+Harlingen	TX	64843
+Laguna Niguel	CA	64469
+St. Charles	MO	64386
